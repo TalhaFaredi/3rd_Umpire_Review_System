@@ -84,4 +84,4 @@ if uploaded_file is not None:
     except Exception as e:
         st.error(f"Error during prediction: {str(e)}")
 
-st.write("&copy; Your Business Name 2023 | [Privacy Policy](#) | [Terms & Conditions](#)")
+st.write("&copy; Talha Fareedi | [Privacy Policy](#) | [Terms & Conditions](#)")
